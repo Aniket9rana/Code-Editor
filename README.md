@@ -28,7 +28,7 @@ To get this project running locally, follow these simple steps:
    git clone [https://github.com/Aniket9rana/Code-Editor.git](https://github.com/Aniket9rana/Code-Editor.git)
 
 # Plaintext
-├── index.html   # Main structure & editor layout
-├── style.css    # UI styling & theme
-├── script.js   # Real-time logic & preview engine
-└── README.md    # Project documentation
+- ├── index.html   # Main structure & editor layout
+- ├── style.css    # UI styling & theme
+- ├── script.js   # Real-time logic & preview engine
+- └── README.md    # Project documentation
